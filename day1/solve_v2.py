@@ -24,8 +24,8 @@ for line in lines:
             i += 1
         else:
             for j in range(3,5+1):
-                if line[i:min(i+j, len(line)-1)] in number_words:
-                    num.append(str(number_words[line[i:min(i+j, len(line)-1)]]))
+                if line[i:min(i+j, len(line))] in number_words:
+                    num.append(str(number_words[line[i:min(i+j, len(line))]]))
                     break
             i += 1
         

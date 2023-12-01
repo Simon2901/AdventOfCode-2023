@@ -47,8 +47,8 @@ for line in lines:
     num=[]
     for i in range(len(line)):
         for j in range(3,5+1):
-            if line[i:min(i+j, len(line)-1)] in number_words:
-                num.append(str(number_words[line[i:min(i+j, len(line)-1)]]))
+            if line[i:min(i+j, len(line))] in number_words:
+                num.append(str(number_words[line[i:min(i+j, len(line))]]))
         if ord(line[i]) in range(ord("0"), ord("9") + 1):
             num.append(line[i])
     print("".join([str(num[i]) for i in (0, -1)]))
