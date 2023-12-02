@@ -20,7 +20,6 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [ ] Tag 10
 - [ ] Tag 11
 - [ ] Tag 12
-
 - [ ] Tag 13
 - [ ] Tag 14
 - [ ] Tag 15
