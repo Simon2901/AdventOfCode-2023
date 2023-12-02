@@ -9,7 +9,7 @@ You've been doing this long enough to know that to restore snow operations, you 
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
 
 - [x] [Tag 01](day1/task.md)
-- [ ] Tag 02
+- [x] Tag 02
 - [ ] Tag 03
 - [ ] Tag 04
 - [ ] Tag 05
